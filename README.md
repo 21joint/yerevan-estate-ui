@@ -1,4 +1,4 @@
-# estate
+# Yerevan Estate
 
 ## Project setup
 ```
